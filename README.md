@@ -1,24 +1,5 @@
-# petik
+## Belajar Fullstack Laravel dan Vuejs
 
-## Project setup
-```
-npm install
-```
+> Membuat website sederhana menggunakan Laravel dan Vuejs dengan menerapkan _single page application_
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Keep Learning :rocket:
